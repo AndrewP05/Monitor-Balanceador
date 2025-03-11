@@ -1,1 +1,1 @@
-{"Servidor_1": {"host": "localhost", "port": 5000}, "Servidor_2": {"host": "localhost", "port": 5001}}
+{"Servidor_1": {"host": "localhost", "port": 5000, "activos": 0}, "Servidor_2": {"host": "localhost", "port": 5001, "activos": 0}}
